@@ -1,0 +1,129 @@
+body {
+    font-family: Brandley Hand;
+    background-color: #171717;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+header a {
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 20px;
+    color: white;
+    background-color: #171717;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header a:hover {
+    font-size: 32px;
+    transition: 0.2s ease-in;
+}
+
+header p {
+    font-size: 40px;
+    text-align: center;
+}
+
+header img {
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    padding-left: 10px;
+}
+
+.logo {
+    float: left;
+    width: 40px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+main p {
+    color: white;
+    font-size: 24px;
+}
+
+.history1 {
+    color: white;
+    text-align: center;
+    height: 400px;
+    width: 800px;
+    float: left;
+}
+
+.his1 img {
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+}
+
+.his1 img:hover {
+    border: 5px solid white;
+    transition: 0.2s ease-in;
+}
+
+.his1_img {
+    height: 400px;
+    width: 700px;
+    float: right;
+    margin-top: 60px;
+    margin-right: 30px;
+    border-radius: 20px;
+}
+
+.history2 {
+    color: white;
+    text-align: center;
+    height: 400px;
+    width: 800px;
+    float: left;
+    margin-top: 200px;
+}
+
+.his2 img {
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+}
+
+.his2 img:hover {
+    border: 5px solid white;
+    transition: 0.2s ease-in;
+}
+
+.his2_img {
+    height: 400px;
+    width: 700px;
+    float: right;
+    margin-top: 90px;
+    margin-right: 30px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+.konspirologi {
+    text-align: center;
+    color: white;
+}
+
+.konspirologi img {
+    border-radius: 20px;
+    height: 400px;
+    width: 800px;
+}
+
+.konspirologi img:hover {
+    border-radius: 20px;
+    border: 5px solid white;
+    transition: 0.2s ease-in;
+}
+
+.konspirologi h2 {
+    }
