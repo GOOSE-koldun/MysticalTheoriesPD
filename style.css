@@ -91,6 +91,7 @@ main p {
     height: 400px;
     width: 700px;
     border-radius: 20px;
+    margin-bottom: 100px
 }
 
 .his2 img:hover {
